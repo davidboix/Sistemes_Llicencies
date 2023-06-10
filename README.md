@@ -1,2 +1,5 @@
 # Sistemes_Llicencies
+
 Repositori creat per a la implementació de codi obert MYSQL.
+
+ARXIU DISPONIBLE : MODIFICACIÓ DE LES CONSULTES DESENVOLUPADES SOBRE UNA BASE DE DADES DE UNA PLATAFORMA DE STREAMING.
